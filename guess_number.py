@@ -18,3 +18,6 @@ while chance > gc:
         print ('too high ')
         """ elif chance == gc and guess !=num :
         print ('sorry you lose ! the number is : ',num)       """
+for (i in chance ):
+    print(i)
+
