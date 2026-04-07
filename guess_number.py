@@ -21,3 +21,9 @@ while chance > gc:
         print ('sorry you lose ! the number is : ',num)       """
 for (i) in range(1, chance + 1) :
     print(i)
+
+
+'''add print statement for advising for playing different python games'''
+print("hello have interest to play python program games")
+print("hangman game ")
+
